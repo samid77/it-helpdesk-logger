@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "message": "Add log New Log Test",
+      "id": 2,
+      "message": "Fix monitor in PC 90889",
+      "attention": false,
+      "tech": "Sarah Wilson",
+      "date": "2020-05-25T09:15:55.239Z"
+    },
+    {
+      "message": "Enhance new monitor",
       "attention": true,
       "tech": "John Doe",
-      "date": "2020-05-25T07:39:45.686Z",
-      "id": 2
+      "date": "2020-05-25T09:08:50.286Z",
+      "id": 3
     }
   ],
   "techs": [
