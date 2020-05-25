@@ -8,25 +8,11 @@
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
+      "message": "Add log New Log Test",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-05-31T15:46:48.690Z",
-      "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2020-05-31T19:57:35.544Z"
+      "tech": "John Doe",
+      "date": "2020-05-25T07:39:45.686Z",
+      "id": 2
     }
   ],
   "techs": [
