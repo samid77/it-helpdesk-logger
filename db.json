@@ -1,18 +1,11 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
-      "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-05-31T15:46:10.179Z",
-      "id": 1
-    },
-    {
       "id": 2,
       "message": "Fix monitor in PC 90889",
       "attention": false,
-      "tech": "Sarah Wilson",
-      "date": "2020-05-25T09:15:55.239Z"
+      "tech": "Sara Wilson",
+      "date": "2020-05-25T12:11:34.597Z"
     },
     {
       "message": "Enhance new monitor",
@@ -37,11 +30,6 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
-    },
-    {
-      "firstName": "Samid",
-      "lastName": "Septyanto",
-      "id": 4
     }
   ]
 }

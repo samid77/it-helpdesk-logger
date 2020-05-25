@@ -37,22 +37,18 @@ export const setLoading = () => {
 
 export const deleteLog = (id) => async dispatch => {
     try {
-
         setLoading();
         await fetch(`logs/${id}`, {
             method: 'DELETE'
         });
-        
         dispatch({
             type: DELETE_LOG,
             payload: id
         })
-
     } catch (err) {
-        
         dispatch({
             type: LOGS_ERROR,
-            payload: err.response.data
+            payload: err.response.statusText
         })
     }
 }
